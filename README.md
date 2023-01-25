@@ -2,10 +2,11 @@
 
 - 🌱 I’m currently learning **Software Engineering** in **Zhejiang University**.
 - 🔭 I’m currently trying to improve my Front-end skill.
+- :star: Now I‘m working in [**浙江大学启真交叉学科创新创业实验室**]([浙江大学启真交叉学科创新创业实验室 (zju.edu.cn)](http://xlab.zju.edu.cn/)). If you are a ZJUer, welcome to contact with us!
 
 <h3 align="left">Languages and Tools</h3>
 
-<p align="left"> 
+<p align="left" style="background-color:#E6E6FA;border:3px dotted black;border-radius:10px"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.anaconda.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/> </a>  
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -26,8 +27,14 @@
 <a href="https://www.mongodb.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.markdownguide.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> </p>
-### Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomisTony&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Stats</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomisTony&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<a style="float:left" href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TomisTony&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a style="float:left" href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomisTony&count_private=true&show_icons=true&theme=tokyonight&layout=compact" />
+</a>
+</div>
