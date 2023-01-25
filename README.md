@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Software Engineering** in **Zhejiang University**.
 - 🔭 I’m currently trying to improve my Front-end skill.
-- :star: Now I‘m working in [**浙江大学启真交叉学科创新创业实验室**]([浙江大学启真交叉学科创新创业实验室 (zju.edu.cn)](http://xlab.zju.edu.cn/)). If you are a ZJUer, welcome to contact with us!
+- :star: Now I‘m working in [**浙江大学启真交叉学科创新创业实验室**](http://xlab.zju.edu.cn/). If you are a ZJUer, welcome to contact with us!
 
 <h3 align="left">Languages and Tools</h3>
 
