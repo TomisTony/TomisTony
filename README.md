@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Software Engineering** in **Zhejiang University**.
 - 🔭 I’m currently trying to improve my Front-end skill.
-- 🐬 Now I‘m working in [**DolphinDB**](https://www.dolphindb.cn/). 
+- 🏢 Now I‘m working in [**MeiTuan**](https://www.meituan.com/). 
 
 <h3 align="left">Languages and Tools</h3>
 
