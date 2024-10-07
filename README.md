@@ -1,8 +1,8 @@
 <h3 align="left">Hi there 👋 I'm TomisTony. You can call me Br as well.</h3>
 
-- 🌱 I’m currently learning **Software Engineering** in **Zhejiang University**.
+- 🌱 I have graduated from **Software Engineering** in **Zhejiang University**.
+- 🏢 Now I‘m working in [**MeiTuan**](https://www.meituan.com/).
 - 🔭 I’m currently trying to improve my Front-end skill.
-- 🏢 Now I‘m working in [**MeiTuan**](https://www.meituan.com/). 
 
 <h3 align="left">Languages and Tools</h3>
 
